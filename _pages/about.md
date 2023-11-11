@@ -20,6 +20,7 @@ News
 ======
 * [07/2020] I joined the China Telecom Research Institute and became a researcher.
 * [06/2020] I obtained my Master's degree from the Graduate School of the Chinese Academy of Social Sciences, where I studied under the guidance of Professor Luo Ziwen. 
+* [04/2019] As an intern in product planning, I joined Tencent's WeChat AI Conversation Platform, where I participated in the development of intelligent voice assistant features.
 * [06/2018] I interned with the international operations team at TikTok, which is operated by ByteDance.
 * [06/2017] I graduated from the Japanese Language Department at Wuhan University with a Bachelor's degree in Literature.
 
