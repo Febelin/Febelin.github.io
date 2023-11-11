@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinxi Xiang"
-  avatar           : "edcard.JPG"
+  name             : "Yanfei Lin"
+  avatar           : "portrait.png"
   bio              : "" 
-  location         : "Shenzhen, China."
+  location         : "Guangzhou, China."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Zn-0LioAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=Zn-0LioAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jinxi_Xiang" 
+  researchgate     :  #"https://www.researchgate.net/profile/Jinxi_Xiang" 
   uri              :
   bitbucket        :
   codepen          :
