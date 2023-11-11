@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 
-Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the Graduate School of the Chinese Academy of Social Sciences, specializing in communication studies with a focus on visual communication and rumor management. I achieved excellent grades, with a GPA of 4.0/5.0. My undergraduate degree is in Japanese from Wuhan University, and I also hold a dual degree in Business Administration.
+Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the Graduate School of the Chinese Academy of Social Sciences, focuing on visual communication and rumor management. I achieved grades with a GPA of 4.0/5.0. My undergraduate degree is in Japanese from Wuhan University, and I also hold a dual degree in Business Administration.
 
 I have extensive experience in social practice, having interned multiple times at major Chinese internet companies such as Tencent and ByteDance. Currently, I work full-time at the China Telecom Research Institute, where my responsibilities include research in network security and product analysis.
 
-Combining my educational background and professional experiences, I have a keen interest in topics such as AI security, data privacy, and information ethics.
-
-Looking ahead, I aspire to delve deeper into research on AI security, data privacy, and information ethics, exploring how to find a balance in these areas to drive the development of AI technology and ensure mutual benefits for society. Feel free to visit my personal website for more information!
+Combining my educational background and professional experiences, I have a keen interest in topics such as AI security, data privacy, and information ethics.Feel free to visit my personal website for more information!
 
 
 News
