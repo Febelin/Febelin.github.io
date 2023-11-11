@@ -18,6 +18,8 @@ Combining my educational background and professional experiences, I have a keen 
 
 News
 ======
+* [07/2022] I participated as a keynote speaker in the International Conference on Networks, Communications, and Information Technology (CNCIT).
+* [07/2021] As a key member and project manager, I undertook the development of 5G Internet of Things (IoT) security products.
 * [07/2020] I joined the China Telecom Research Institute and became a researcher.
 * [06/2020] I obtained my Master's degree from the Graduate School of the Chinese Academy of Social Sciences, where I studied under the guidance of Professor Luo Ziwen. 
 * [04/2019] As an intern in product planning, I joined Tencent's WeChat AI Conversation Platform, where I participated in the development of intelligent voice assistant features.
@@ -27,7 +29,7 @@ News
 
 Journals
 ======
-* **Xiang, J.**, Wang, X., Wang, X., Zhang, J., Yang, S., Yang, W., Han, X. and Liu, Y., 2022. Automatic diagnosis and grading of Prostate Cancer with weakly supervised learning on whole slide images. Computers in Biology and Medicine, p.106340.
+* **Lin, Y.**, Wang, H., Li, W., & Shen, J., 2023. Automatic diagnosis and grading of Prostate Cancer with weakly supervised learning on whole slide images. Computers in Biology and Medicine, p.106340.
 
 
 
