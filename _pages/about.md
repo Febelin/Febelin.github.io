@@ -18,7 +18,7 @@ Combining my educational background and professional experiences, I have a keen 
 
 News
 ======
-* [07/2022] I participated as a keynote speaker in the International Conference on Networks, Communications, and Information Technology (CNCIT).
+* [11/2022] I participated as a keynote speaker in the International Conference on Networks, Communications, and Information Technology (CNCIT).
 * [07/2021] As a key member and project manager, I undertook the development of 5G Internet of Things (IoT) security products.
 * [07/2020] I joined the China Telecom Research Institute and became a researcher.
 * [06/2020] I obtained my Master's degree from the Graduate School of the Chinese Academy of Social Sciences, where I studied under the guidance of Professor Luo Ziwen. 
@@ -29,7 +29,11 @@ News
 
 Journals
 ======
-* **Lin, Y.**, Wang, H., Li, W., & Shen, J., 2023. Automatic diagnosis and grading of Prostate Cancer with weakly supervised learning on whole slide images. Computers in Biology and Medicine, p.106340.
+* **Lin, Y.**, Wang, H., Li, W., & Shen, J., 2023. Federated learning with hyper-network—A case study on whole slide image analysis. Scientific Reports, 13(1), 1724.
+
+* Wang, H., **Lin, Y.**, & Li, W., 2022.  Research on threat modeling for 5G network data analytics function. Networks, Communications and Information Technology (CNCIT), pp. 171-178, IEEE.
+
+* Luo, Z., **Lin, Y.**, 2021.  RSeeing is Deceiving: Narrative Characteristics and Social Psychology of Health-Related Short Video Rumors – An Empirical Study Based on the Toutiao Rumor Database, Journal of the Graduate School of the Chinese Academy of Social Sciences, 06,p. 93-103.
 
 
 
