@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 
-I am a senior engineer affiliated with Tencent AI Lab working in multidisciplinary ML applied research. I obtained my Ph.D. from Tsinghua University supervised by Prof. Yonggui Dong in 2021 and my B. Eng from Wuhan University in 2016. 
+Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the Graduate School of the Chinese Academy of Social Sciences, specializing in communication studies with a focus on visual communication and rumor management. I achieved excellent grades, with a GPA of 4.0/5.0. My undergraduate degree is in Japanese from Wuhan University, and I also hold a dual degree in Business Administration.
 
-I visited the University of Edinburgh (2019-2020) under the supervision of Dr. Yunjie Yang, and University College Dublin (2016) sponsored by China Scholarship Council. I was a research intern at SenseTime Research supervised by Dr. Qing Xia.
+I have extensive experience in social practice, having interned multiple times at major Chinese internet companies such as Tencent and ByteDance. Currently, I work full-time at the China Telecom Research Institute, where my responsibilities include research in network security and product analysis.
 
-My previous research projects span from medical image analysis, image/video coding, and multi-modal pertaining.
+Combining my educational background and professional experiences, I have a keen interest in topics such as AI security, data privacy, and information ethics.
+
+Looking ahead, I aspire to delve deeper into research on AI security, data privacy, and information ethics, exploring how to find a balance in these areas to drive the development of AI technology and ensure mutual benefits for society. Feel free to visit my personal website for more information!
 
 
 News
