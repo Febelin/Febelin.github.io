@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the Graduate School of the Chinese Academy of Social Sciences, focuing on visual communication and rumor management. I achieved grades with a GPA of 4.0/5.0. My undergraduate degree is in Japanese from Wuhan University, and I also hold a dual degree in Business Administration.
+Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the Graduate School of the Chinese Academy of Social Sciences, focuing on visual communication and rumor management. I achieved grades with a GPA of 4.0/5.0. My undergraduate degree is in Japanese from Wuhan University, and I also hold a minor degree in Business Administration.
 
 I have extensive experience in social practice, having interned multiple times at major Chinese internet companies such as Tencent and ByteDance. Currently, I work full-time at the China Telecom Research Institute, where my responsibilities include research in network security and product analysis.
 
@@ -18,10 +18,10 @@ Combining my educational background and professional experiences, I have a keen 
 
 News
 ======
-* [06/2021] I join Tencent AI Lab as a senior engineer. 
-* [01/2021] One paper accepted to TMI (model-based learning for inverse problem). 
-* [12/2020] I am glad to get the internship at [SenseTime](https://www.sensetime.com/en), Beijing, working on healthcare AI.
-* [10/2020] I finished my joint Ph.D. program at the University of Edinburgh. I would like to thank my supervisor, Dr. Yang, for his help and inspiration towards my research.
+* [07/2020] I joined the China Telecom Research Institute and became a researcher.
+* [06/2020] I obtained my Master's degree from the Graduate School of the Chinese Academy of Social Sciences, where I studied under the guidance of Professor Luo Ziwen. 
+* [06/2018] I interned with the international operations team at TikTok, which is operated by ByteDance.
+* [06/2017] I graduated from the Japanese Language Department at Wuhan University with a Bachelor's degree in Literature.
 
 
 Journals
