@@ -1,58 +1,22 @@
 ---
-layout: page
-title: projects
+layout: archive
+title: "Projects"
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+author_profile: true
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+{% include base_path %}
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+Journals
+======
+* **Xiang, J.**, Dong, Y., Zhang, M. and Li, Y., 2019. Design of a Magnetic Induction Tomography System by Gradiometer Coils for Conductive Fluid Imaging. IEEE Access, 7, pp.56733-56744. [pdf](http://jinxixiang.github.io/files/2019-Access.pdf)
+* **Xiang, J.**, Dong, Y., Xue, X. and Xiong, H., 2018. Electronics of a wearable ECG with level crossing sampling and human body communication. IEEE transactions on biomedical circuits and systems, 13(1), pp.68-79. [pdf](http://jinxixiang.github.io/files/2018-TBioCAS.pdf)
+* Hou, Z., **Xiang, J.**, Dong, Y., Xue, X., Xiong, H. and Yang, B., 2018. Capturing Electrocardiogram Signals from Chairs by Multiple Capacitively Coupled Unipolar Electrodes. Sensors, 18(9), p.2835. [pdf](http://jinxixiang.github.io/files/2018-Sensors.pdf)
+* Hou, Z., Dong, Y., **Xiang, J.**, Li, X. and Yang, B., 2018. A real-time QRS detection method based on phase portraits and box-scoring calculation. IEEE Sensors Journal, 18(9), pp.3694-3702. [pdf](http://jinxixiang.github.io/files/2018-IEEESensor.pdf)
+
