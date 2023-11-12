@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the [Graduate School of the Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/), focuing on visual communication and rumor management. I achieved grades with a GPA of 4.0/5.0. My undergraduate degree is in Japanese from [Wuhan University](https://en.whu.edu.cn/), and I also hold a minor degree in Business Administration.
+Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the [University of Chinese Academy of Social Sciences(graduate school)](https://www.ucass.edu.cn/en/), focuing on visual communication and rumor management. I achieved grades with a GPA of 4.0/5.0. My undergraduate degree is in Japanese from [Wuhan University](https://en.whu.edu.cn/), and I also hold a minor degree in Business Administration.
 
 I have interned multiple times at major Chinese internet companies such as Tencent and ByteDance. Currently, I work full-time at the [China Telecom Research Institute](http://www.chinatelecom.com.cn/), where my responsibilities include research in network security and product analysis.
 
@@ -23,7 +23,7 @@ News
 * [07/2022]As the main drafter, I lead the formulation of the national industry standard Technical Requirements of Software Defined Perimeter (SDP) for Telecommunication Network
 * [07/2021] As a key member and project manager, I undertook the development of 5G Internet of Things (IoT) security products.
 * [07/2020] I joined the China Telecom Research Institute and became a researcher.
-* [06/2020] I obtained my Master's degree from the Graduate School of the Chinese Academy of Social Sciences, where I studied under the guidance of Professor Luo Ziwen. 
+* [06/2020] I obtained my Master's degree from University of Chinese Academy of Social Sciences(graduate school), where I studied under the guidance of Professor Luo Ziwen. 
 * [04/2019] As an intern in product planning, I joined Tencent's WeChat AI Conversation Platform, where I participated in the development of [intelligent voice assistant features] (https://xiaowei.weixin.qq.com/).
 * [06/2018] I interned with the international operations team at TikTok, which is operated by ByteDance.
 * [06/2017] I graduated from the Japanese Language Department at Wuhan University with a Bachelor's degree in Literature.
@@ -43,6 +43,8 @@ Journals
 Conferences
 ======
 * **Lin, Y.**, 2019. A Comparative Study of EU Personal Data Protection Laws from the Perspective of the Evolution of Cross-Border Information Flow Policies. In *The 7th Chinese Symposium on Media Law and Governance*. 
+* **Lin, Y.**, 2018. The External Communication of Short Videos in the Context of Consumer Discourse Shift. In *the 10th Graduate Student Academic Seminar of the Chinese Academic Alliance for Journalism and Communication*. 
+* **Lin, Y.**, 2018. Exploring the Operation Mechanism of UGC Advertising Based on Discourse Analysis: A Discussion Starting from 'Grassroots Marketing' and 'Product Promotion. In *the "Wuhan University National Advertising Ph.D. Forum" and the "9th Academic Forum on Journalism and Communication for Postgraduates in the Central China Region.*. 
 
 <!-- 
 A data-driven personal website
