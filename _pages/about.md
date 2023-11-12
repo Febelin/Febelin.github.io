@@ -19,7 +19,6 @@ Combining my educational background and professional experiences, I have a keen 
 News
 ======
 
-* [11/2022] I participated as a speaker in the International Conference on Networks, Communications, and Information Technology (CNCIT).
 * [07/2022] As the main drafter, I lead the formulation of the national industry standard Technical Requirements of Software Defined Perimeter (SDP) for Telecommunication Network
 * [07/2021] As a key member and project manager, I undertook the development of 5G Internet of Things (IoT) security products.
 * [07/2020] I joined the China Telecom Research Institute and became a researcher.
