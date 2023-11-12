@@ -22,7 +22,7 @@ News
 * [07/2022] As the main drafter, I lead the formulation of the national industry standard Technical Requirements of Software Defined Perimeter (SDP) for Telecommunication Network
 * [07/2021] As a key member and project manager, I undertook the development of 5G Internet of Things (IoT) security products.
 * [07/2020] I joined the China Telecom Research Institute and became a researcher.
-* [06/2020] I obtained my Master's degree from University of Chinese Academy of Social Sciences, where I studied under the guidance of Professor Luo Ziwen. 
+* [06/2020] I obtained my Master's degree from University of Chinese Academy of Social Sciences, where I studied under the guidance of [Professor Luo Ziwen](https://media.ucass.edu.cn/info/1071/1565.htm). 
 * [04/2019] As an intern in product planning, I joined Tencent's WeChat AI Conversation Platform, where I participated in the development of [intelligent voice assistant features](https://xiaowei.weixin.qq.com/).
 * [06/2018] I interned with the international operations team at TikTok, which is operated by ByteDance.
 * [06/2017] I graduated from the Japanese Language Department at Wuhan University with a Bachelor's degree in Literature.
