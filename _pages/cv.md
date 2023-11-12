@@ -27,11 +27,11 @@ Selected Awards
 
 Main Courses
 =====
-* **Undergraduate (GPA: 3.57/4.0)** Main Course: Basic Japanese, Business Japanese, Japanese Writing, College English. **Minor in Business Administration(GPA: 3.55/4.0)**Main Course: Macroeconomics, Microeconomics, Project Management
-* **Graduate (GPA: 4.0/5.0)**Main Course: Communication Theory, Online Communication, Qualitative and Quantitative Research Methods, and New Media Marketing Narratives
+* **Graduate (GPA: 4.0/5.0)**  Main Course: Communication Theory, Online Communication, Qualitative and Quantitative Research Methods, and New Media Marketing Narratives
+* **Undergraduate (GPA: 3.57/4.0)**  Main Course: Basic Japanese, Business Japanese, Japanese Writing, College English. **Minor in Business Administration(GPA: 3.55/4.0)**Main Course: Macroeconomics, Microeconomics, Project Management
 
 Skills
 ======
-* Programming Language: Matlab, Python，latex
+* Programming Language: Python，latex，Matlab
 * Language: Mandarin(Native), Cantonese(Native), English (IELTS 7.0), Japanese(N1) 
 * Others: SPSS, Photoshop, Sketch, Visio
