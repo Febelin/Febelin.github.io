@@ -11,18 +11,19 @@ redirect_from:
 
 Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the [Graduate School of the Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/), focuing on visual communication and rumor management. I achieved grades with a GPA of 4.0/5.0. My undergraduate degree is in Japanese from [Wuhan University](https://en.whu.edu.cn/), and I also hold a minor degree in Business Administration.
 
-I have interned multiple times at major Chinese internet companies such as Tencent and ByteDance. Currently, I work full-time at the China Telecom Research Institute, where my responsibilities include research in network security and product analysis.
+I have interned multiple times at major Chinese internet companies such as Tencent and ByteDance. Currently, I work full-time at the [China Telecom Research Institute](http://www.chinatelecom.com.cn/), where my responsibilities include research in network security and product analysis.
 
 Combining my educational background and professional experiences, I have a keen interest in topics such as AI security, data privacy, and information ethics.Feel free to visit my personal website for more information!
 
 
 News
 ======
+
 * [11/2022] I participated as a keynote speaker in the International Conference on Networks, Communications, and Information Technology (CNCIT).
 * [07/2021] As a key member and project manager, I undertook the development of 5G Internet of Things (IoT) security products.
 * [07/2020] I joined the China Telecom Research Institute and became a researcher.
 * [06/2020] I obtained my Master's degree from the Graduate School of the Chinese Academy of Social Sciences, where I studied under the guidance of Professor Luo Ziwen. 
-* [04/2019] As an intern in product planning, I joined Tencent's WeChat AI Conversation Platform, where I participated in the development of intelligent voice assistant features named [Xiaowei](https://xiaowei.weixin.qq.com/).
+* [04/2019] As an intern in product planning, I joined Tencent's WeChat AI Conversation Platform, where I participated in the development of [intelligent voice assistant features] (https://xiaowei.weixin.qq.com/).
 * [06/2018] I interned with the international operations team at TikTok, which is operated by ByteDance.
 * [06/2017] I graduated from the Japanese Language Department at Wuhan University with a Bachelor's degree in Literature.
 
@@ -33,14 +34,14 @@ Journals
 
 * Wang, H., **Lin, Y.**, & Li, W., 2022.  Research on threat modeling for 5G network data analytics function. Networks, Communications and Information Technology (CNCIT), pp. 171-178, IEEE.
 
-* Luo, Z., **Lin, Y.**, 2021.  RSeeing is Deceiving: Narrative Characteristics and Social Psychology of Health-Related Short Video Rumors – An Empirical Study Based on the Toutiao Rumor Database, Journal of the Graduate School of the Chinese Academy of Social Sciences, 06,p. 93-103.
+* Luo, Z., **Lin, Y.**, 2021.  Seeing is Deceiving: Narrative Characteristics and Social Psychology of Health-Related Short Video Rumors – An Empirical Study Based on the Toutiao Rumor Database, Journal of the Graduate School of the Chinese Academy of Social Sciences, 06,p. 93-103.
 
+*  **Lin, Y.**, 2018.  The Crisis of Values in the Development of ”Platform-based Media, Youth Journalist, 26,8-9.
 
 
 Conferences
 ======
-* **Xiang, J.**, Chen, Z., Dong, Y. and Yang, Y., 2020. Image Reconstruction for Multi-frequency Electromagnetic Tomography based on Multiple Measurement Vector Model. In *2020 International Instrumentation and Measurement Technology Conference*. 
-
+* **Lin, Y.**, 2019. A Comparative Study of EU Personal Data Protection Laws from the Perspective of the Evolution of Cross-Border Information Flow Policies. In *The 7th Chinese Symposium on Media Law and Governance*. 
 
 <!-- 
 A data-driven personal website
