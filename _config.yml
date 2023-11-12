@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanfei Lin"
 title_separator          : "-"
 name                     : &name "Yanfei Lin"
-description              : &description "Tencent Senior Engineer"
+description              : &description "China telecom Senior researcher"
 url                      : https://Febelin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Febelin.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=Zn-0LioAAAAJ&hl=en"
   email            :
-  researchgate     :  #"https://www.researchgate.net/profile/Jinxi_Xiang" 
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5476-3690"
+  orcid            : #"https://orcid.org/0000-0002-5476-3690"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
