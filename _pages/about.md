@@ -43,7 +43,7 @@ Conferences
 ======
 * **Lin, Y.**, 2019. A Comparative Study of EU Personal Data Protection Laws from the Perspective of the Evolution of Cross-Border Information Flow Policies. In *The 7th Chinese Symposium on Media Law and Governance*. 
 * **Lin, Y.**, 2018. The External Communication of Short Videos in the Context of Consumer Discourse Shift. In *the 10th Graduate Student Academic Seminar of the Chinese Academic Alliance for Journalism and Communication*. 
-* **Lin, Y.**, 2018. Exploring the Operation Mechanism of UGC Advertising Based on Discourse Analysis: A Discussion Starting from 'Grassroots Marketing' and 'Product Promotion. In *the "Wuhan University National Advertising Ph.D. Forum" and the "9th Academic Forum on Journalism and Communication for Postgraduates in the Central China Region.*. 
+* **Lin, Y.**, 2018. Exploring the Operation Mechanism of UGC Advertising Based on Discourse Analysis: A Discussion Starting from 'Grassroots Marketing' and 'Product Promotion' . In *the "Wuhan University National Advertising Ph.D. Forum" and the "9th Academic Forum on Journalism and Communication for Postgraduates in the Central China Region.*. 
 
 <!-- 
 A data-driven personal website
