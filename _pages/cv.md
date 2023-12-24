@@ -33,6 +33,6 @@ Main Courses
 
 Skills
 ======
-* Programming Language: Python, latex，Matlab
+* Programming Language: Python, latex, Matlab
 * Language: Mandarin (Native), Cantonese (Native), English (IELTS 7.0), Japanese (N1) 
 * Others: SPSS, Photoshop, Sketch, Visio
