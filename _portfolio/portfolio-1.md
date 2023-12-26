@@ -4,6 +4,5 @@ excerpt: "Tencent Xiao Wei is a suite of intelligent services from Tencent Cloud
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-hello world！
+In this project, I not only mastered the advanced application of the Axure prototyping tool but also successfully designed and delivered over 30 effective high-fidelity pages, meeting industry standards in visual design and user experience. In terms of market research and user experience analysis, I delved deep into user needs and based on this, I compiled detailed requirement documents and competitive analysis reports, providing clear guidance for the project's developmental direction. Additionally, I gained an in-depth understanding of Natural Language Processing (NLP) technology and the fundamental principles of Human-Computer Interaction (HCI) design, which aided in making more rational design decisions within the project. Thanks to my efforts, the 1.0 version, launched in 2019, not only went live smoothly but also achieved significant operational success, currently estimated to have over 300,000 users.
