@@ -27,7 +27,7 @@ Selected Awards
 
 Main Courses
 =====
-* **Graduate (GPA: 4.0/5.0)**  Main Course: Communication Theory, Online Communication, Qualitative and Quantitative Research Methods, and New Media Marketing Narratives
+* **Graduate (Average grade：89.2/100)**  Main Course: Communication Theory, Online Communication, Qualitative and Quantitative Research Methods, and New Media Marketing Narratives
 * **Undergraduate (GPA: 3.57/4.0)**  Main Course: Basic Japanese, Business Japanese, Japanese Writing, College English. 
 * **Minor in Business Administration (GPA: 3.55/4.0)**  Main Course: Macroeconomics, Microeconomics, Project Management
 
