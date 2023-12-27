@@ -18,7 +18,7 @@ Combining my educational background and professional experiences, I have a keen 
 
 News
 ======
-* [05/2023] I have passed the [NPDP (New Product Development Professional) certification exam](https://www.pdma.org/). 
+* [05/2023] I have passed the [NPDP (New Product Development Professional)]certification exam(https://www.pdma.org/). 
 * [07/2022] As the main drafter, I lead the formulation of the national industry standard Technical Requirements of Software Defined Perimeter (SDP) for Telecommunication Network
 * [07/2021] As a key member and project manager, I undertook the development of 5G Internet of Things (IoT) security products.
 * [07/2020] I joined the China Telecom Research Institute and became a researcher.
