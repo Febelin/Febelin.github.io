@@ -34,9 +34,9 @@ Journals
 
 * Wang, H., **Lin, Y.**, & Li, W., 2022. [Research on threat modeling for 5G network data analytics function](https://ieeexplore.ieee.org/abstract/document/9887578). Networks, Communications and Information Technology (CNCIT), pp. 171-178, IEEE.
 
-* Luo, Z., **Lin, Y.**, 2021. [Seeing is Deceiving: Narrative Characteristics and Social Psychology of Health-Related Short Video Rumors – An Empirical Study Based on the Toutiao Rumor Database](https://kns.cnki.net/kcms2/article/abstract?v=fmMZJtqnKJY7vpkBdyr2ZtULEyqGjaOXhBrTTwiumqXCjozdDVBvG2nmwzc3cGFl7rogQZIZKBwdv75Z-JWKcqBqHh_P_JJD6ohUzTOTwQSPibEsfvaHqW0Gt2eAVmuuihDBKKJL3MOl6QukopVnjbOmmKyXVull&uniplatform=NZKPT&language=CHS), Journal of the Graduate School of the Chinese Academy of Social Sciences, 06,p. 93-103.
+* Luo, Z., **Lin, Y.**, 2021. [Seeing is Deceiving: Narrative Characteristics and Social Psychology of Health-Related Short Video Rumors – An Empirical Study Based on the Toutiao Rumor Database](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t6r0aa0845h0m70ts6t0pa0f7664647&site=xueshu_se), Journal of the Graduate School of the Chinese Academy of Social Sciences, 06,p. 93-103.
 
-*  **Lin, Y.**, 2018. [The Crisis of Values in the Development of ”Platform-based Media"](https://kns.cnki.net/kcms2/article/abstract?v=fmMZJtqnKJYT1VqYGxzLK2rbqNIxTXA_sa8TZgcMRpIB8R1r9rvx2fUwDMAtH-A2AKbcLvDfw2x4uduRvtPFyEov7tUASf0ZDEcx2ytZgGOgL6HxOtIqhSR8Za_8RuqXUiKT9xTU2N6eJtqXLIgTYQ==&uniplatform=NZKPT&language=CHS), Youth Journalist, 26,8-9.
+*  **Lin, Y.**, 2018. [The Crisis of Values in the Development of ”Platform-based Media"](https://xueshu.baidu.com/usercenter/paper/show?paperid=1k6d06j0650h0ax0br4d02109b699709&site=xueshu_se), Youth Journalist, 26,8-9.
 
 
 Conferences
