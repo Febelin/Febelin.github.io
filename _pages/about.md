@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/), focuing on visual communication and rumor management,with a distinguished master's degree score of 3.83/4.0, as certified by WES. My undergraduate degree is in Japanese from [Wuhan University](https://en.whu.edu.cn/), and I also hold a minor degree in Business Administration.
+Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/), focuing on visual communication and rumor management, with a distinguished master's degree score of 3.83/4.0, as certified by WES. My undergraduate degree is in Japanese from [Wuhan University](https://en.whu.edu.cn/)(GPA:3.58/4.0, WES), and I also hold a minor degree in Business Administration.
 
 I have interned multiple times at major Chinese internet companies such as Tencent and ByteDance. Currently, I work full-time at the [China Telecom Research Institute](http://www.chinatelecom.com.cn/), where my responsibilities include research in network security and product analysis.
 
