@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+Hi there! I’m a PhD student in Media Studies at the University of Oregon, focusing on platform governance, data privacy, and digital surveillance. I earned my master’s degree from the University of Chinese Academy of Social Sciences, focusing on visual communication and rumor management. I also hold a bachelor’s degree in Japanese from Wuhan University and a minor in Business Administration.
 
-Hi there! I'm a Master of Communication graduate with a rich academic background and practical experience. I obtained my master's degree from the [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/), focuing on visual communication and rumor management, with a distinguished master's degree score of 3.83/4.0, as certified by WES. My undergraduate degree is in Japanese from [Wuhan University](https://en.whu.edu.cn/), and I also hold a minor degree in Business Administration.
+I have completed multiple internships at leading Chinese internet companies, including Tencent and ByteDance. Prior to my doctoral studies, I worked full-time at the China Telecom Research Institute, conducting research on network security and product analysis.
 
-I have interned multiple times at major Chinese internet companies such as Tencent and ByteDance. Currently, I work full-time at the [China Telecom Research Institute](http://www.chinatelecom.com.cn/), where my responsibilities include research in network security and product analysis.
-
-Combining my educational background and professional experiences, I have a keen interest in topics such as AI security, data privacy, and information ethics.Feel free to visit my personal website for more information!
+Combining my educational background and professional experiences, I am passionate about topics such as AI security, data privacy, and information ethics.
+Feel free to explore my personal website to learn more!
 
 
 News
