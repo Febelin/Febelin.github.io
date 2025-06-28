@@ -23,7 +23,11 @@ Selected Awards
 * 2019 Excellent Award, the 7th China Media Law and Legal Studies Academic Summit.
 * 2018 Outstanding Socially Engaged Individual, University of Chinese Academy of Social Sciences.
 * 2015 Outstanding Socially Engaged Individual, Wuhan University.
- 
+
+
+Patents
+======
+I hold one granted patent as the first inventor and have two more patent applications under substantive examination, focusing on network security and malicious traffic prevention.
 
 
 Main Courses
