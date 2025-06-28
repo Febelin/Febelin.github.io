@@ -20,15 +20,14 @@ News
 ======
 * [03/2025] Awarded a research grant of **$24,396** by the Consumer Protection Grant Committee, serving as Co-Principal Investigator. The project runs from June 2025 to June 2026.
 * [10/2024] My patent focusing on IoT security and defense passed substantive examination and has been officially granted.
-* [09/2024] I started my PhD program in Media Studies at the University of Oregon, focusing on platform governance, data privacy, and digital surveillance.
+* [09/2024] Started my PhD program in Media Studies at the University of Oregon, focusing on platform governance, data privacy, and digital surveillance.
 * [05/2023] I have passed the [NPDP (New Product Development Professional)](https://www.pdma.org/)certification exam. 
-* [07/2022] As the main drafter, I lead the formulation of the national industry standard Technical Requirements of Software Defined Perimeter (SDP) for Telecommunication Network
-* [07/2021] As a key member and project manager, I undertook the development of 5G Internet of Things (IoT) security products.
-* [07/2020] I joined the China Telecom Research Institute and became a researcher.
-* [06/2020] I obtained my Master's degree from University of Chinese Academy of Social Sciences, where I studied under the guidance of [Professor Luo Ziwen](https://media.ucass.edu.cn/info/1071/1565.htm). 
+* [07/2022] Led the formulation of the national industry standard Technical Requirements of Software Defined Perimeter (SDP) for Telecommunication Network as the main drafter.
+* [07/2021] Served as project manager and key contributor in the development of 5G Internet of Things (IoT) security products.
+* [06/2020] Obtained my Master's degree from University of Chinese Academy of Social Sciences, where I studied under the guidance of [Professor Luo Ziwen](https://media.ucass.edu.cn/info/1071/1565.htm). 
 * [04/2019] As an intern in product planning, I joined Tencent's WeChat AI Conversation Platform, where I participated in the development of [intelligent voice assistant features](https://xiaowei.weixin.qq.com/).
-* [06/2018] I interned with the international operations team at TikTok, which is operated by ByteDance.
-* [06/2017] I graduated from the Japanese Language Department at Wuhan University with a Bachelor's degree in Literature.
+* [06/2018] Interned with the international operations team at TikTok (ByteDance).
+* [06/2017] Graduated from the Japanese Language Department at Wuhan University with a Bachelor’s degree in Literature.
 
 
 Journals
