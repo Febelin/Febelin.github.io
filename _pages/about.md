@@ -19,6 +19,7 @@ Feel free to explore my personal website to learn more!
 News
 ======
 * [03/2025] Awarded a research grant of **$24,396** by the Consumer Protection Grant Committee, serving as Co-Principal Investigator. The project runs from June 2025 to June 2026.
+* [10/2024] My patent focusing on IoT security and defense passed substantive examination and has been officially granted.
 * [09/2024] I started my PhD program in Media Studies at the University of Oregon, focusing on platform governance, data privacy, and digital surveillance.
 * [05/2023] I have passed the [NPDP (New Product Development Professional)](https://www.pdma.org/)certification exam. 
 * [07/2022] As the main drafter, I lead the formulation of the national industry standard Technical Requirements of Software Defined Perimeter (SDP) for Telecommunication Network
